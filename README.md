@@ -13,4 +13,7 @@ Welcome to the **Paddle OCR Truck License Plate Recognition System**! This innov
 2. Adjust the parameters in `parameters.py` as needed.
 3. Run the script to start processing!
 
+## License
+This project is open-source, and you can use, modify, and distribute it under the terms specified in the LICENSE file included in this repository.
+
 With this robust system, you can extend the functionality and adapt it to various use cases in license plate recognition.
