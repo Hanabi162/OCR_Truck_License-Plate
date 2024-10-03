@@ -16,8 +16,5 @@ To enhance the accuracy of your license plate recognition, we recommend implemen
 2. Adjust the parameters in `parameters.py` as needed.
 3. Run the script to start processing!
 
-## License
-This project is open-source, and you can use, modify, and distribute it under the terms specified in the LICENSE file included in this repository.
-
 ## Final Thoughts
 With this robust system, you can extend the functionality and adapt it to various use cases in license plate recognition. Implementing YOLO as a detection mechanism can lead to more reliable results and improved project success.
