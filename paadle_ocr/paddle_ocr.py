@@ -8,7 +8,7 @@ import logging
 import time
 from parameters import parameters_processor
 
-input_folder_path = r'C:\Users\ARoumpattana\Desktop\OCR\Data_Plate\processing\truck_d'
+input_folder_path = r'your_input_path'
 archive_path = r'your_archive_path'
 archive_Switch = False # Set to True to save processed images to the archive
 
