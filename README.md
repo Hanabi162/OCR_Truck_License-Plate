@@ -1,5 +1,16 @@
-# Paddle OCR Truck License Plate Recognition
+# Paddle OCR Truck License Plate Recognition System
 
-This project utilizes PaddleOCR for recognizing truck license plates in images. It processes images from a specified folder, applies image enhancements, and extracts license plate numbers along with their colors. 
+Welcome to the **Paddle OCR Truck License Plate Recognition System**! This innovative project harnesses the power of PaddleOCR to accurately identify truck license plates from images stored in a designated folder.
 
-You can customize the parameters in the `parameters.py` file to suit your needs.
+## Key Features:
+- **Image Processing:** The system enhances image quality through advanced techniques such as noise reduction and sharpening.
+- **Plate Detection:** It intelligently extracts license plate numbers while determining their colors—either Yellow or White.
+- **Flexible Configuration:** Customize your processing parameters effortlessly through the `parameters.py` file to tailor the recognition process to your specific requirements.
+- **Automated Workflow:** Seamlessly processes images in real-time, archiving or removing processed files as needed to keep your directory organized.
+
+## How to Get Started:
+1. Set your input and archive paths.
+2. Adjust the parameters in `parameters.py` as needed.
+3. Run the script to start processing!
+
+With this robust system, you can extend the functionality and adapt it to various use cases in license plate recognition.
